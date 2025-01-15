@@ -1,6 +1,5 @@
 - 👋 Hi, We are [Vanskarner](https://vanskarner.com/)
-- 👀 We develop projects for any business area
-- 🌱 We are currently learning to integrate machine learning
+- 👀 We develop projects for any business area, even AI
 - 💞️ We are willing to collaborate on interesting or social impact projects
 - 📫 Contact us through the mail contact@vanskarner.com
 
